@@ -1,0 +1,175 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    overflow-x: hidden;
+}
+
+.head-buttons a {
+    width: auto;
+    background-color: #eee;
+    color: black;
+    padding: 5px 15px;
+    text-align: center;
+    font-size: 13px;
+}
+
+.Topbar {
+    background-color: #316dc3;
+}
+
+.row1 {
+    background-color: #316dc3;
+}
+
+ul li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.head-buttons a {
+    padding: 3px;
+}
+
+.seperator {
+    width: 50px;
+    height: 3px;
+    background-color: rgb(0, 48, 0);
+    display: block;
+}
+
+.projects marquee {
+    height: 200px;
+}
+
+.topbar button {
+    border: 1px solid 316dc3;
+    padding: 8px 8px 4px 8px;
+    background-color: #316dc3;
+    font-size: 12px !important;
+    border-radius: 25px;
+    color: white;
+    /* background-color: rgb(77, 62, 216); */
+}
+
+#footerparagraph {
+    padding: 50px 10px 60px 10px !important;
+    /* margin: 0px 1px 0px 1px !important; */
+    text-align: center !important;
+    position: relative !important;
+    left: 1px;
+}
+
+.seperate {
+    width: 600px;
+    height: 3px;
+    background-color: rgb(0, 48, 0);
+    display: block;
+    padding-left: 105px;
+}
+
+
+/* Footer  */
+
+
+/* .main3 {
+    display: flex;
+    padding: 11px 0px 0px 0px;
+    background-color: #25272e;
+    margin: 0px 0px 0px 0px;
+    flex-direction: row;
+    flex-wrap: wrap !important; */
+
+
+/* Flex boxes will come sodn  */
+
+
+/* }
+.two3,
+.three3 {
+    display: inline;
+    text-align: left;
+}
+@media only screen and (max-width: 800px) {
+    .two3,
+    .three3 {
+        display: inline;
+        text-align: center !important;
+    } */
+
+*/
+/* working */
+
+
+/* #footerparagraph {
+    padding: 50px 10px 60px 10px !important;
+    margin: 0px 1px 0px 1px !important;
+    text-align: center !important;
+    position: relative !important;
+    left: 1px;
+} */
+
+
+/* }
+#footerparagraph {
+    padding: 70px 0px 80px 145px;
+}
+#foot3 li {
+    display: inline !important;
+} */
+
+
+/* Footer copyright  */
+
+
+/* @media only screen and (max-width: 600px) {
+    #cr {
+        text-align: center !important;
+        padding: 10px 82px 10px 90px !important;
+    }
+}
+
+#cr {
+    background-color: #316dd9;
+    color: white;
+    text-align: left !important;
+    font-size: 12px;
+    padding: 10px 0px 10px 155px;
+} */
+
+
+/*Back to top icon  */
+
+
+/* #btt {
+    position: fixed;
+    right: 5px;
+    bottom: 10px;
+    border-radius: 80px;
+    height: 40px;
+    width: 40px;
+    opacity: 0.7;
+} */
+
+@media only screen and (max-width: 600px) {
+    #btt {
+        position: relative;
+        right: 8px;
+        bottom: 10px;
+        width: 25px;
+        height: 25px;
+        border-radius: 80px;
+        opacity: 0.8;
+    }
+}
+
+.footer {
+    background-color: #25272e;
+}
+
+.footer-social-icon {
+    float: left;
+}
